@@ -21,6 +21,11 @@ If this shows JavaScript ^ Something is messed up! Go **Python** Go!
 Most of my contribution are private 😭 Cons of working in Enterprise Industry
 
 
+- **2020** - The year I coded most 😎 (as per GitHub)
+- **2021-2022** - They made me lead 😭 Now I code less - Help me change that!
+  - Just kidding, there are more stuff in BitBucket, GitLab and private GitLab repo's! 😎
+
+
 - 🔭 I’m currently working on Django / Python, PostgreSQL, AWS, Serverless based products.
 - 🌱 I’m want to implement something on GoLang!
 - 👯 I’m open to hear about new ideas and build something!
